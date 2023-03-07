@@ -6,5 +6,5 @@ The purpose of this notebook is to compare four classification models that will 
 * The goal of this notebook is to compare a linear models to a non-linear models.
 * The metric chosen for comparison is log-loss.
 * There will not be hyperparameter tuning conducted. <br>
-
+* Data used for this notebook was obtained from https://www.kaggle.com/datasets/giripujar/hr-analytics and was accessed on 28FEB2023
 * Brandon Johnson
