@@ -6,5 +6,5 @@ The purpose of this notebook is to compare four classification models that will 
 * The goal of this notebook is to compare a linear models to a non-linear models.
 * The metric chosen for comparison is log-loss.
 * There will not be hyperparameter tuning conducted. <br>
-<br>
+
 * Brandon Johnson
